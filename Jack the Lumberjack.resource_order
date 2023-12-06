@@ -18,5 +18,6 @@
   ],
   "ResourceOrderSettings": [
     {"name":"s_solid","order":1,"path":"sprites/s_solid/s_solid.yy",},
+    {"name":"o_solid","order":1,"path":"objects/o_solid/o_solid.yy",},
   ],
 }
