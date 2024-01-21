@@ -6,7 +6,7 @@ vspeed_ = 0;
 
 speed_ = 1.5;
 
-health_ = 4;
+health_ = 40;
 
 MOVEMENT_ = 0;
 ATTACK_ = 1;

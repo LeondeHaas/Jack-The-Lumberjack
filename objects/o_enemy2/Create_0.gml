@@ -6,4 +6,4 @@ vspeed_ = 0;
 
 speed_ = 0.5;
 
-health_ = 12;
+health_ = 80;
