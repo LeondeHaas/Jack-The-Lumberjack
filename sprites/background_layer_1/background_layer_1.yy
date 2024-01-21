@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "s_solid",
-  "bbox_bottom": 31,
+  "name": "background_layer_1",
+  "bbox_bottom": 179,
   "bbox_left": 0,
-  "bbox_right": 31,
+  "bbox_right": 319,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,26 +13,26 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a812c5a6-9643-42fd-a6e2-46de6ae10cc7",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"862cda1d-d027-4f5c-90fd-1baf41634262",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 32,
+  "height": 180,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"4dba65ce-bfc4-4176-af74-066c0d11ddc5","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"46c502dc-b3d6-443c-b0b7-f1b15f11a2da","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Jack the Lumberjack",
+    "path": "Jack the Lumberjack.yyp",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "s_solid",
+    "name": "background_layer_1",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"a812c5a6-9643-42fd-a6e2-46de6ae10cc7","path":"sprites/s_solid/s_solid.yy",},},},"Disabled":false,"id":"5e933ed2-da04-41a6-881c-b4ff0a241f91","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"862cda1d-d027-4f5c-90fd-1baf41634262","path":"sprites/background_layer_1/background_layer_1.yy",},},},"Disabled":false,"id":"3bb39098-0f23-42b8-ac36-4e2b6448affc","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 32,
+  "width": 320,
 }
