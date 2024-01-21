@@ -6,4 +6,4 @@ instance_create_layer(spawn_x, spawn_y, "Instances", o_enemy);
 instance_create_layer(spawn_x, spawn_y, "Instances", o_enemy2);
 
 // Reset the alarm to trigger again in 5 seconds
-alarm[0] = room_speed * 5;
+alarm[0] = room_speed * 15;
