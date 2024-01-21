@@ -52,6 +52,7 @@
     {"id":{"name":"s_bullet","path":"sprites/s_bullet/s_bullet.yy",},},
     {"id":{"name":"o_player","path":"objects/o_player/o_player.yy",},},
     {"id":{"name":"s_solid2","path":"sprites/s_solid2/s_solid2.yy",},},
+    {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},},
     {"id":{"name":"r_one","path":"rooms/r_one/r_one.yy",},},
   ],
   "RoomOrderNodes": [

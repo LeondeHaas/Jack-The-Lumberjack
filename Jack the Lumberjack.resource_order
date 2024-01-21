@@ -33,5 +33,6 @@
     {"name":"o_solid","order":1,"path":"objects/o_solid/o_solid.yy",},
     {"name":"s_bullet","order":3,"path":"sprites/s_bullet/s_bullet.yy",},
     {"name":"s_solid2","order":5,"path":"sprites/s_solid2/s_solid2.yy",},
+    {"name":"obj_controller","order":5,"path":"objects/obj_controller/obj_controller.yy",},
   ],
 }
